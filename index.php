@@ -12,15 +12,12 @@
   
 	<?php 
 	include("includes/menu.php");
-	
 	?>
 			
 
 
   <body>
 
-
-  
   <div class="container">
   <h1>  Welcome to Row Row Fight the Power[TRYRM]! </h1>
   <p> This website is the home of the auspicious Temple of Sobana as well as the quite established research team of Sajuukthanatoskhar <p>
