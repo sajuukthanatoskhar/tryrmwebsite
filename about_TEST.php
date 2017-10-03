@@ -19,13 +19,15 @@
 	  <div id="home" class="tab-pane fade in active">
 		<h3>About TEST Alliance Please Ignore</h3>
 		<p>TEST Alliance is a null-sec sovereignty holding alliance.  You can know more about them by going  <a href="http://wiki.pleaseignore.com/">here</a>!</p>
+        <img src="images/Testpropaganda2.jpeg" alt="FlagofMMD" width="1080">
 	  </div>
 	</div>
 </div>
   
   <body>
-  
   </body>
+  
+  
 </html>
   
   
